@@ -1,0 +1,1 @@
+This repository contains tasks that pertain to the custom implementation of the printf funcction found in the stdio.h library of C language. It is a joint project developed by Effiong Ekpe and Muhammad Abubakar, all of Cohort 9
